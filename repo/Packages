@@ -1,5 +1,5 @@
 Package: com.hacki.LegizmoInternal21DA222330i
-Version: 2.0.0-1
+Version: 2.0.0
 Section: Tweaks
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
@@ -12,17 +12,17 @@ Name: Legizmo Internal 21DA222330i
 Author: Hacki <djarocki7@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
-Package: com.hacki.LegizmoInternal21DA222330i
-Version: 2.0.0-1
+Package: com.hacki.darkierelod
+Version: 2.0.0
 Section: Tweaks
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/Legizmo-Release-Internal-1.1-21DA222330i.deb
+Filename: ./debs/com.hacki.darkireload_1.1.9_iphoneos-arm.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: Legizmo OLD Internal Version
-Name: Legizmo Internal 21DA222330i
+Description: Darkie Theme
+Name: Darkie Reloaded Theme
 Author: Hacki <djarocki7@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
