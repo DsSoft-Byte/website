@@ -1,8 +1,8 @@
 Package: com.hacki.LegizmoInternal21DA222330i
 Version: 2.0.0
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Maintainer: Hacki <djarocki7@gmail.com>
+Depends: firmware (>12.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/Legizmo-Release-Internal-1.1-21DA222330i.deb
 Size: 302
@@ -12,10 +12,10 @@ Name: Legizmo Internal 21DA222330i
 Author: Hacki <djarocki7@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.hacki.LegizmoInternal21DA222330i
 
-Package: com.hacki.darkierelod
+Package: com.hacki.darkiereload
 Version: 2.0.0
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
+Maintainer: Hacki <djarocki7@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.hacki.darkireload_1.1.9_iphoneos-arm.deb
@@ -24,5 +24,20 @@ MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: Darkie Theme
 Name: Darkie Reloaded Theme
 Author: Hacki <djarocki7@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.hacki.darkie
+lunotech11-hacki.legizmo.jupiter_3.2_iphoneos-arm.deb
+
+Package: com.hacki.legizmojupiter3_2
+Version: 3.2.0
+Section: Tweaks
+Maintainer: Hacki <djarocki7@gmail.com>
+Depends: firmware (>13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/lunotech11-hacki.legizmo.jupiter_3.2_iphoneos-arm.deb
+Size: 397
+MD5sum: D32FBD1C1E6EC6F08E4B4A1767908909
+Description: Legizmo Apple Watch tweak
+Name: Legizmo Jupiter 3.2
+Author: Hacki <djarocki7@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.hacki.legizmojupiter3_2
 

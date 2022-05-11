@@ -1,10 +1,10 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
-	<version>1.0.0-1</version>
+	<id>com.hacki.legizmojupiter3_2</id>
+	<name>Legizmo Jupiter 3.2</name>
+	<version>3.2.0</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
+			<miniOS>13.0</miniOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>This Legizmo version requires iOS 13 and above, for older try Legizmo "Grace"</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
